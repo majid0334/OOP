@@ -1,4 +1,5 @@
 # OOP
+Skapad av Majdid Moradi
 //5 slumpämmisaga kort
 gameBoard.start("Spelare 1", "Spelare 2");
 //Vi tar in kort mängden väljer spelarna
